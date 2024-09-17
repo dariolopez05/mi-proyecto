@@ -2,4 +2,8 @@
 
 echo "Hola";
 
+function mensaje() {
+    echo "Perona";
+}
+
 ?>

@@ -6,4 +6,6 @@ function mensaje() {
     echo "Perona";
 }
 
+echo "adeu";
+
 ?>
